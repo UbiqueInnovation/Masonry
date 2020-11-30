@@ -6,6 +6,7 @@
 //  Copyright (c) 2013 Jonas Budelmann. All rights reserved.
 //
 
+#import <Foundation/Foundation.h>
 #import "View+MASAdditions.h"
 
 #ifdef MAS_SHORTHAND

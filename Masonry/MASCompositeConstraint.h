@@ -6,6 +6,7 @@
 //  Copyright (c) 2013 cloudling. All rights reserved.
 //
 
+#import <Foundation/Foundation.h>
 #import "MASConstraint.h"
 #import "MASUtilities.h"
 

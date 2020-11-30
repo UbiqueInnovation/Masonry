@@ -6,8 +6,6 @@
 //  Copyright (c) 2013 cloudling. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
-
 //! Project version number for Masonry.
 FOUNDATION_EXPORT double MasonryVersionNumber;
 

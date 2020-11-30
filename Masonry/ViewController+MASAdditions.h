@@ -6,6 +6,7 @@
 //
 //
 
+#import <Foundation/Foundation.h>
 #import "MASUtilities.h"
 #import "MASConstraintMaker.h"
 #import "MASViewAttribute.h"
