@@ -12,6 +12,7 @@ let package = Package(
         .target(name: "Masonry",
                 path: "Masonry",
                 exclude: ["Info.plist"],
-                publicHeadersPath: "")
+                publicHeadersPath: "Public",
+                cSettings: [.define("NS_BLOCK_ASSERTIONS", to: "1", .when(configuration: .release))])
     ]
 )
